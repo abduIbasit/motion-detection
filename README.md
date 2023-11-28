@@ -19,8 +19,9 @@ pip install opencv-python imutils
 
 ## Usage
 ```python
-git clone https://github.com/abdulbasit/motion-detection.git
+git clone https://github.com/abduIbasit/motion-detection.git
 cd motion-detection
+python motion_detection.py
 ```
 
 Feel free to customize the template further based on your interest and idea.
